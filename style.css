@@ -49,6 +49,7 @@ a:visited {
 a:hover {
     font-weight: 800;
 }
+
 /**************************
    MAIN PAGE
 **************************/
@@ -67,7 +68,6 @@ a:hover {
     float: left;
     margin-top: 50px;
     margin-left: 70px;
-    border-color: black;
 }
 
 #column2{
@@ -91,3 +91,23 @@ h1{
 .drake {
     
 }
+
+/**************************
+   POLICY
+**************************/
+
+#trump2{
+    margin-right: 80px;
+    margin-top: 90px;
+}
+
+.side{
+  width: 200px;
+  float: right;
+}
+
+.side2{
+    width: 200px;
+}
+
+
