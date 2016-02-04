@@ -1,3 +1,49 @@
+body {
+    font-family: inconsolata;
+}
+
+nav {
+    border-bottom: solid black 2px;
+    height: 40px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right:20px
+}
+
+#left {
+    float:left;
+    padding-left: 17px;
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 12px;
+}
+
+#right {
+    float: right;
+    padding-left: 5px;
+    margin:5px;
+    
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    color:black;
+}
+
+a:hover {
+    font-weight: 800;
+}
+
 /**************************
    MAIN PAGE
 **************************/
@@ -36,6 +82,7 @@ h1{
 	color: white;
 }
 
+
 /**************************
    POLICY
 **************************/
@@ -53,3 +100,5 @@ h1{
 .side2{
     width: 200px;
 }
+
+
