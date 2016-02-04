@@ -1,0 +1,36 @@
+/**************************
+   MAIN PAGE
+**************************/
+#container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#trump{
+	 text-align: center;
+	 margin-top: 100px;
+}
+
+#column1{
+    width: 400px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+#column2{
+     width: 400px;
+     float: right;
+     margin-top: 50px;
+     margin-right: 50px;
+}
+
+.topbanner{
+	background-color: grey;
+}
+
+h1{
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+}
