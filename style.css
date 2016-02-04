@@ -16,6 +16,7 @@
     float: left;
     margin-top: 50px;
     margin-left: 70px;
+    border-color: black;
 }
 
 #column2{
@@ -23,6 +24,7 @@
      float: right;
      margin-top: 50px;
      margin-right: 50px;
+     border-color: black;
 }
 
 .topbanner{
