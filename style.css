@@ -87,18 +87,27 @@ h1{
    POLICY
 **************************/
 
-#trump2{
-    margin-right: 80px;
-    margin-top: 90px;
+.side3{
+    /*margin-right: 0;*/
+    /*float: center;*/
+    width: 200px;
+    padding-left: 16px;
+    display: inline-block;
+    margin: 0px auto;
+
 }
 
 .side{
+  float: left;
   width: 200px;
-  float: right;
+  
+
 }
 
 .side2{
-    width: 200px;
+   float: right;
+   width: 200px;
+
 }
 
 
