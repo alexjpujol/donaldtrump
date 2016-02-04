@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: inconsolata;
 }
@@ -43,3 +44,43 @@ a:visited {
 a:hover {
     font-weight: 800;
 }
+=======
+/**************************
+   MAIN PAGE
+**************************/
+#container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#trump{
+	 text-align: center;
+	 margin-top: 100px;
+}
+
+#column1{
+    width: 400px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-color: black;
+}
+
+#column2{
+     width: 400px;
+     float: right;
+     margin-top: 50px;
+     margin-right: 50px;
+     border-color: black;
+}
+
+.topbanner{
+	background-color: grey;
+}
+
+h1{
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+}
+>>>>>>> fb724e31b298f938d0c6cfaae2980f4d5fe503e8
