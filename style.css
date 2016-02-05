@@ -101,6 +101,7 @@ a:hover {
     border-radius: 36px 12px;
     opacity: 0.4;
     filter: alpha(opacity=40);
+    margin-bottom: 70px;
 }
 
 .side3{
