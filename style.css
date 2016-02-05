@@ -39,6 +39,7 @@ a {
     color:black;
 }
 
+/*
 .pagethree {
     color:black;
 }
@@ -49,11 +50,12 @@ a:visited {
 a:hover {
     font-weight: 800;
 }
+*/
 
-/**************************
+/********************************************
    MAIN PAGE
-**************************/
-#container {
+********************************************/
+.container {
 	width: 1024px;
 	margin: 0 auto;
 }
@@ -79,44 +81,92 @@ a:hover {
 }
 
 .topbanner{
-	background-color: grey;
+/*	background-color: grey;*/
 }
 
-h1{
-	text-align: center;
-	margin-top: 50px;
-	color: white;
-}
 
 .drake {
     
 }
 
-/**************************
-   POLICY
-**************************/
+/********************************************
+   ISSUES
+********************************************/
+
+
+#wrapper{
+    width: 1024px;
+    margin: 0 auto;
+    background-color: azure;
+    border-radius: 36px 12px;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
 
 .side3{
-    /*margin-right: 0;*/
-    /*float: center;*/
-    width: 200px;
+    width: 331px;
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 350px;
+/*    padding-left: 16px;*/
+    
+/*
     padding-left: 16px;
     display: inline-block;
     margin: 0px auto;
+*/
 
 }
 
 .side{
-  float: left;
-  width: 200px;
+  float: right;
+  width: 331px;
+  margin-right: 100px;
+    margin-top: 250px;
   
-
 }
 
 .side2{
-   float: right;
-   width: 200px;
+/*   float: right;*/
+   width: 331px; 
+    margin-left: 100px;
 
 }
+
+/********************************************
+  h1's...copy & pasted from .pagethree
+*********************************************/
+
+/*
+h1{
+    color:black;
+}
+a:visited {
+    color:black;
+}
+
+a:hover {
+    font-weight: 800;
+}
+*/
+
+
+
+h1{
+	text-align: center;
+	margin-top: 50px;
+	color: black;
+    font-size: 50px;
+}
+
+#trumpmain{
+    text-align: center;
+}
+
+p{
+  font-size: 15px;
+}
+
+
 
 
