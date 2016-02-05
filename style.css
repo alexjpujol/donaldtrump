@@ -152,7 +152,7 @@ a:hover {
 
 
 
-h1{
+h1 {
 	text-align: center;
 	margin-top: 50px;
 	color: black;
@@ -163,10 +163,42 @@ h1{
     text-align: center;
 }
 
-p{
+p {
   font-size: 15px;
 }
 
+.media {
+    text-align: center;
+}
+
+#alig {
+    margin-left: 75px;
+    float: left;
+    background-color: azure;
+    border-radius: 45px 12px;
+    width: 600px;
+    height: 400px
+}
+
+#letterman {
+    float:right;
+    background-color: azure;
+    border-radius: 36px 12px;
+    width: 460px;
+    height: 400px;
+    margin-right: 150px;
+    align-content: center
+}
 
 
-
+#instagram {
+    padding-left: 20px;
+    clear: both;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 680px;
+    height: 550px;
+    display: inline-block;
+    background-color: azure;
+    border-radius: 36px 12px;
+}
